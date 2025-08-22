@@ -9,3 +9,5 @@ export const getWebContainer = async() => {
     }
     return webContainerInstance;
 }
+
+export default {};
